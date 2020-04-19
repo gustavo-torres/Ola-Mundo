@@ -3,4 +3,4 @@
 
 Repositório criado durante uma aula ao vivo.
 
-Estal inha eu adicionei diretamente no GitHub, que bacana hein?
+Esta linha eu adicionei diretamente no GitHub, que bacana hein?
